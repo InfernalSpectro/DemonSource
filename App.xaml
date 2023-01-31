@@ -1,7 +1,7 @@
-<Application x:Class="Thronos_Exploit.App"
+<Application x:Class="Demon_Exploit.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Thronos_Exploit"
+             xmlns:local="clr-namespace:Demon_Exploit"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="{x:Type Button}" x:Key="CustomStyleButton">
